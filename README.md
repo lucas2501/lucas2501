@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucas2501
+- 👋 Hi, I’m Lucas Cardoso
 - 👀 I’m interested in any job opportunities in engineering or python related.
 - 🌱 I’m currently learning python programming and looking forward to learn JavaScript.
 - 💞️ I’m looking to collaborate on any python projects.
